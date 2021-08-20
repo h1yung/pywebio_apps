@@ -8,7 +8,7 @@ from datetime import datetime
 import plotly.express as px
 import pandas as pd
 
-def main():
+if __name__ == '__main__':
     zipcode = input("PyWebIO Weather Applet 🌞", placeholder="enter your zipcode")
     token = "1ebdf98d274a49a495903913212105"
     
