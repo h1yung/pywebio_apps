@@ -6,7 +6,7 @@ from functools import partial
 
 filenames = []
 
-def main():
+if __name__ == '__main__':
     
     while(True):
         set_scope("scope")
