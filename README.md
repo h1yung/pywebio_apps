@@ -2,7 +2,10 @@
 
 ## pyweblog.py
 Minimalist blog editor and blog page which supports markdown and images.
-*gif here*
+
+<img src="https://user-images.githubusercontent.com/54069717/130252347-1a2365e9-a9a3-40ca-a1be-ad927c8b9863.png" width="512"/>
+<img src="https://user-images.githubusercontent.com/54069717/130252445-c60701a4-97db-4bea-9b9a-5cff0f85a4da.png" width="512"/>
+<img src="https://user-images.githubusercontent.com/54069717/130252576-4cc35869-af62-4c72-87d1-093559197ee3.png" width="512"/>
 
 ## notetube.py
 YouTube + note-taking application that encourages productivity. Parents can set a password for a session that their children can access to watch only a custom alotted amount of videos. Children can take notes for each video they watch in a session, which is saved for them to view later as well as reported to the parent's email when they run out of v
