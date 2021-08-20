@@ -18,16 +18,23 @@ ideos. Parents then can evaluate the children's notes and productivity and grant
 
 ## codeEditor.py
 Write html code and view the results in the same page. 
-*gif here*
+
+<img src="https://user-images.githubusercontent.com/54069717/130251007-4806af42-1a12-44ca-8865-53cf6e644f60.gif" width="512"/>
+
 
 ## fileManager.py
 Extension to the pywebio user interface which allows you to delete, rename, upload, and download files.
-*gif here*
+
+<img src="https://user-images.githubusercontent.com/54069717/130251963-af2d45f1-e977-4e67-99fb-debcebaea7f2.png" width="512"/>
+
 
 ## mail.py
 Login to your gmail account and view unread and read mails within the 24 hour window. You can also send and delete mails.
-*gif here*
+
+<img src="https://user-images.githubusercontent.com/54069717/130252182-a9470ca1-8bd2-4b11-bb36-ec0b6c20b6bf.png" width="512"/>
+
 
 ## weather.py
 Simply enter your zipcode and get information about temperature, precipitation, sunrise, sunset, and so on. Also get a graph of the hourly weather and  precipitation trend.
-*gif here*
+
+<img src="https://user-images.githubusercontent.com/54069717/130251399-34b2e1e3-c1fe-4df8-89f6-d1f5a4e41ba4.gif" width="512"/>
