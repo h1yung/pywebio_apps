@@ -11,7 +11,7 @@ from functools import partial
 
 # https://gist.github.com/martinrusev/6121028
 
-def main():
+if __name__ == '__main__':
     ########################################################
     # LOG IN                                               #
     ########################################################
