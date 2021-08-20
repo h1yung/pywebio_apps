@@ -144,7 +144,3 @@ def download(dummy, i):
     f = open(filenames[i], "rb")
     display.append(put_file(filenames[i], f.read()))
     f.close()
-
-from pywebio.platform.flask import start_server
-
-start_server(main, debug=False, port=51669, cdn=True)
