@@ -1,6 +1,7 @@
 from pywebio import *
-from pywebio.output import *
 from pywebio.input import *
+from pywebio.output import *
+
 import requests
 import json
 from datetime import datetime
@@ -8,8 +9,7 @@ import plotly.express as px
 import pandas as pd
 
 def main():
-    zipcode = input("BuildMyOwn.App Weather Applet 🌞", 
-        placeholder="enter your zipcode")
+    zipcode = input("PyWebIO Weather Applet 🌞", placeholder="enter your zipcode")
     token = "1ebdf98d274a49a495903913212105"
     
     ### Current Weather ###
@@ -146,7 +146,3 @@ def main():
     
     
     
-
-from pywebio.platform.flask import start_server
-
-start_server(main, debug=False, port=44451, cdn=True)
