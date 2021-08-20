@@ -1,6 +1,7 @@
-from pywebio import *
-from pywebio.output import *
 from pywebio.input import *
+from pywebio.output import *
+from pywebio.session import *
+
 import imaplib
 import email
 from email.message import EmailMessage
@@ -348,7 +349,3 @@ def main():
             
     # CLOSE SESSION
     toast("You have successfully logged out.")
-
-from pywebio.platform.flask import start_server
-
-start_server(main, debug=False, port=41501, cdn=True)
