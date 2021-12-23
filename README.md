@@ -24,12 +24,12 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#pyweblog">minimalist blog editor</a></li>
-    <li><a href="#notetube">productive notetaking youtube platform</a></li>
-    <li><a href="#codeeditor">real-time code editor</a></li>
-    <li><a href="#filemanager">file manager</a></li>
-    <li><a href="#mail">python email service</a></li>
-    <li><a href="#weather">python weather service</a></li>
+    <li><a href="#pyweblog.py">minimalist blog editor</a></li>
+    <li><a href="#notetube.py">productive notetaking youtube platform</a></li>
+    <li><a href="#codeeditor.py">real-time code editor</a></li>
+    <li><a href="#filemanager.py">file manager</a></li>
+    <li><a href="#mail.py">python email service</a></li>
+    <li><a href="#weather.py">python weather service</a></li>
 	<!-- <li><a href="#license"></a></li> -->
     <li><a href="#contact">contact</a></li>
     <li><a href="#acknowledgements">acknowledgements</a></li>
