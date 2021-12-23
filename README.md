@@ -1,4 +1,41 @@
-# pywebio_apps
+<!-- Find and Replace All [repo_name] -->
+<!-- Replace [product-screenshot] [product-url] -->
+<!-- Other Badgets https://naereen.github.io/badges/ -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+
+  <h3 align="center">pywebio_apps</h3>
+
+  <p align="center">
+    Python web applications created during my 2021 summer internship with Bosoniqs Inc. Using web dev library PyWebIO.
+    <br />
+    <br />
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#pyweblog">minimalist blog editor</a></li>
+    <li><a href="#notetube">productive notetaking youtube platform</a></li>
+    <li><a href="#codeeditor">real-time code editor</a></li>
+    <li><a href="#filemanager">file manager</a></li>
+    <li><a href="#mail">python email service</a></li>
+    <li><a href="#weather">python weather service</a></li>
+	<!-- <li><a href="#license"></a></li> -->
+    <li><a href="#contact">contact</a></li>
+    <li><a href="#acknowledgements">acknowledgements</a></li>
+  </ol>
+</details>
+
 
 ## pyweblog.py
 Minimalist blog editor and blog page which supports markdown and images.
@@ -37,3 +74,29 @@ Login to your gmail account and view unread and read mails within the 24 hour wi
 Simply enter your zipcode and get information about temperature, precipitation, sunrise, sunset, and so on. Also get a graph of the hourly weather and  precipitation trend.
 
 <img src="https://user-images.githubusercontent.com/54069717/130251399-34b2e1e3-c1fe-4df8-89f6-d1f5a4e41ba4.gif" width="512"/>
+
+<!-- CONTACT -->
+## Contact
+
+Daniel Park - [@h1yung][linkedin-url] - h1yungpark@gmail.com (Request me for demo and deployment)
+
+Project Link: [https://github.com/h1yung/pywebio_apps](https://github.com/h1yung/pywebio_apps)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [PyWebIO](https://www.pyweb.io)
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/h1yung/pywebio_apps.svg?style=for-the-badge
+[contributors-url]: https://github.com/h1yung/pywebio_apps/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/h1yung/pywebio_apps.svg?style=for-the-badge
+[forks-url]: https://github.com/h1yung/pywebio_apps/network/members
+[stars-shield]: https://img.shields.io/github/stars/h1yung/pywebio_apps.svg?style=for-the-badge
+[stars-url]: https://github.com/h1yung/pywebio_apps/stargazers
+[issues-shield]: https://img.shields.io/github/issues/h1yung/pywebio_apps.svg?style=for-the-badge
+[issues-url]: https://github.com/h1yung/pywebio_apps/issues
+<!-- [license-shield]: 
+[license-url]:  -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/h1yung/
