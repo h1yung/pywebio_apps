@@ -61,14 +61,12 @@ Write html code and view the results in the same page.
 ## file manager
 Extension to the pywebio user interface which allows you to delete, rename, upload, and download files.
 
-<img src="https://user-images.githubusercontent.com/54069717/130251963-af2d45f1-e977-4e67-99fb-debcebaea7f2.png" width="512"/>
-
+<img src="https://user-images.githubusercontent.com/54069717/130252182-a9470ca1-8bd2-4b11-bb36-ec0b6c20b6bf.png" width="512"/>
 
 ## python email service
 Login to your gmail account and view unread and read mails within the 24 hour window. You can also send and delete mails.
 
-<img src="https://user-images.githubusercontent.com/54069717/130252182-a9470ca1-8bd2-4b11-bb36-ec0b6c20b6bf.png" width="512"/>
-
+<img src="https://user-images.githubusercontent.com/54069717/130251963-af2d45f1-e977-4e67-99fb-debcebaea7f2.png" width="512"/>
 
 ## python weather service
 Simply enter your zipcode and get information about temperature, precipitation, sunrise, sunset, and so on. Also get a graph of the hourly weather and  precipitation trend.
